@@ -8,7 +8,7 @@
 
 Layout developed by [Daniel Duarte](https://www.instagram.com/oDaniel2D/)
 
-[![Layout in Figma](<https://www.figma.com/file/SlxVpkmvu5t8jl0lHQPeYj/Ignite-Timer-(Community)?node-id=0%3A1>)
+[![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](<https://www.figma.com/file/SlxVpkmvu5t8jl0lHQPeYj/Ignite-Timer-(Community)?node-id=0%3A1>)
 
 <!-- ## 🎥 Implementation Video
 
