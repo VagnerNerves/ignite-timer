@@ -4,25 +4,25 @@
 
 🚧 Project under construction 🚧
 
-## 🎨 Layout
+<!--## 🎨 Layout
 
 Layout developed by [Daniel Duarte](https://www.instagram.com/oDaniel2D/)
 
 [![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](<https://www.figma.com/file/SlxVpkmvu5t8jl0lHQPeYj/Ignite-Timer-(Community)?node-id=0%3A1>)
 
-<!-- ## 🎥 Implementation Video
+ ## 🎥 Implementation Video
 
 In the GitHub edit, drag the video that it already puts on github itself.
 
 ## 👏 Learning and more implementations
 
-Describe what you learned and implemented in the project. -->
+Describe what you learned and implemented in the project.
 
 ## 💡 Technologies used
 
-- [x] Vite
+- [x] [Vite](https://vitejs.dev/)
 - [x] React
-- [x] Styled Components
+- [x] [Styled Components](https://styled-components.com/)
 - [x] [React Hook Form](https://react-hook-form.com/)
 - [x] [zod](https://github.com/colinhacks/zod)
 - [x] [date-fns](https://date-fns.org/)
@@ -53,7 +53,7 @@ Start the server
 
 ```bash
   npm run start
-``` -->
+```
 
 ### Front-end Web
 
@@ -83,8 +83,9 @@ Start the server
 
 <!-- ## 📝 Routes
 
-[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link) -->
+[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
 
 ## 🌎 License
 
 This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
+-->
