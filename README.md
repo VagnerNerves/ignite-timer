@@ -22,6 +22,7 @@ Describe what you learned and implemented in the project.
 
 - [x] [Vite](https://vitejs.dev/)
 - [x] React
+- [x] TypeScript
 - [x] [Styled Components](https://styled-components.com/)
 - [x] [React Hook Form](https://react-hook-form.com/)
 - [x] [zod](https://github.com/colinhacks/zod)
