@@ -27,6 +27,7 @@ Describe what you learned and implemented in the project.
 - [x] [React Hook Form](https://react-hook-form.com/)
 - [x] [zod](https://github.com/colinhacks/zod)
 - [x] [date-fns](https://date-fns.org/)
+- [x] [Immer](https://github.com/immerjs/immer)
 
 ## 🚀 Running the project
 
