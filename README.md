@@ -2,21 +2,27 @@
   <img alt="Ignite Timer" title="Ignite Timer" src="./src/assets/ignitetime-logo.svg" />
 </h1>
 
-🚧 Project under construction 🚧
+I developed the Ignite Timer project, where you can create a project with time and start the timer, being able to interrupt it, there will also be a history tab where you can see the times that were completed, interrupted or in progress.
 
-<!--## 🎨 Layout
+<!-- ## 🎥 Implementation Video
 
-Layout developed by [Daniel Duarte](https://www.instagram.com/oDaniel2D/)
+In the GitHub edit, drag the video that it already puts on github itself. -->
+
+## 🎨 Layout
+
+Layout developed by [Daniel Duarte](https://www.linkedin.com/in/daniel2d/)
 
 [![Layout in Figma](https://github.com/VagnerNerves/default-readme/blob/main/assets/layout-in-figma.svg)](<https://www.figma.com/file/SlxVpkmvu5t8jl0lHQPeYj/Ignite-Timer-(Community)?node-id=0%3A1>)
 
- ## 🎥 Implementation Video
-
-In the GitHub edit, drag the video that it already puts on github itself.
-
 ## 👏 Learning and more implementations
 
-Describe what you learned and implemented in the project.
+- Implemented and learned Sytles Components for CSS.
+- Implemented and learned about React Router Rom, where Home and Historical routes were created.
+- In the form used the React Hook Form and for the validation the zod.
+- For date comparison and formatting, we use the date-fns library.
+- In this project, a Context was created so that the pages can access the methods.
+- A cycle reducer was also created, to share the logic in one place.
+- I used the Immer library to make it easy to change the reducer mutation.
 
 ## 💡 Technologies used
 
@@ -24,6 +30,7 @@ Describe what you learned and implemented in the project.
 - [x] React
 - [x] TypeScript
 - [x] [Styled Components](https://styled-components.com/)
+- [x] [React Router Dom](https://github.com/remix-run/react-router)
 - [x] [React Hook Form](https://react-hook-form.com/)
 - [x] [zod](https://github.com/colinhacks/zod)
 - [x] [date-fns](https://date-fns.org/)
@@ -55,7 +62,7 @@ Start the server
 
 ```bash
   npm run start
-```
+``` -->
 
 ### Front-end Web
 
@@ -85,9 +92,8 @@ Start the server
 
 <!-- ## 📝 Routes
 
-[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link)
+[![Run in Postman](https://github.com/VagnerNerves/default-readme/blob/main/assets/run-in-postman.svg)](https://app.getpostman.com/run-collection/link) -->
 
 ## 🌎 License
 
 This project is under the MIT license. See the [LICENSE](https://choosealicense.com/licenses/mit/) file for more details.
--->
