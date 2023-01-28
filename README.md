@@ -4,6 +4,8 @@
 
 I developed the Ignite Timer project, where you can create a project with time and start the timer, being able to interrupt it, there will also be a history tab where you can see the times that were completed, interrupted or in progress.
 
+Link in [Netlify](https://ignite-timer-vagnernerves.netlify.app/)
+
 <!-- ## 🎥 Implementation Video
 
 In the GitHub edit, drag the video that it already puts on github itself. -->
@@ -23,6 +25,7 @@ Layout developed by [Daniel Duarte](https://www.linkedin.com/in/daniel2d/)
 - In this project, a Context was created so that the pages can access the methods.
 - A cycle reducer was also created, to share the logic in one place.
 - I used the Immer library to make it easy to change the reducer mutation.
+- Used the local Storage to store the data and recovery.
 
 ## 💡 Technologies used
 
